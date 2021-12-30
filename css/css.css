@@ -1,14 +1,15 @@
-body{
+body {
     background-color: aqua;
     color: brown;
     text-align: center;
 }
-h1{
+h1 {
     background-color: chartreuse;
     color: firebrick;
     text-align: center;
 }
-p{
+p {
     color: aqua;
     background-color: brown;
+    width: 50%;
 }
