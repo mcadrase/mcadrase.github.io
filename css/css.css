@@ -12,4 +12,5 @@ p {
     color: aqua;
     background-color: brown;
     width: 50%;
+    text-decoration-style: solid;
 }
