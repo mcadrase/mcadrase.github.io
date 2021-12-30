@@ -1,8 +1,10 @@
 body{
     background-color: aqua;
     color: brown;
+    text-align: center;
 }
 h1{
     background-color: chartreuse;
     color: firebrick;
+    
 }
